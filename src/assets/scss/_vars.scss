@@ -1,0 +1,15 @@
+$white: #FDFDFD;
+$primary-red: #E31F24;
+$text-black: #333333;
+$text-gray: #76787D;
+$gray-light: #E0E0E0;
+$border-input: #E9ECEF;
+$border-primary: #DEDEDD;
+
+
+@mixin Title {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  color: $text-black;
+}
